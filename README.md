@@ -6,6 +6,43 @@ https://dev.to/techiesdiary/net-60-clean-architecture-using-repository-pattern-a
 
 https://github.com/sandeepkumar17/CleanArch
 
+https://www.tutorialsteacher.com/
+
+https://www.techiehook.com/
+
+https://www.infoworld.com/
+
+## Scheduler with Coravel in .NET Standard
+
+https://sd.blackball.lv/en/articles/read/19532-using-coravel-as-a-scheduler-in-aspnet-core
+
+## .NET Core Performance Tricks
+
+https://sd.blackball.lv/en/articles/read/19444-top-10-netcore-performance-tricks
+
+## Integration Testing Best Practices
+
+https://sd.blackball.lv/en/articles/read/19777-aspnet-core-integration-testing-best-practices
+
+https://sd.blackball.lv/en/articles/read/19548-api-testing-in-software-development
+
+## Unit Testing with Log4Net and MSTest
+```
+[AssemblyInitialize]
+public static void AssemblyInitialize(TestContext testContext)
+{
+    log4net.Config.XmlConfigurator.Configure();
+}
+```
+
+## Unit Testing with Static Methods
+
+https://www.infoworld.com/article/2259680/how-to-unit-test-static-methods-in-csharp.html
+
+## Unit Testing with Dapper and xUnit
+
+https://sd.blackball.lv/articles/read/19096-how-to-write-unit-tests-with-dapper
+
 ## .NET 8.0 (.NET 8.0 API using the Clean Architecture)
 https://github.com/gtechsltn/NET8_CleanArch
 
