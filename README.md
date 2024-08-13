@@ -12,6 +12,12 @@ https://www.techiehook.com/
 
 https://www.infoworld.com/
 
+https://sd.blackball.lv/
+
+## SQL Server CTE
+
+https://sd.blackball.lv/en/articles/read/19470-sql-server-cte-usage-features-and-limitations
+
 ## Scheduler with Coravel in .NET Standard
 
 https://sd.blackball.lv/en/articles/read/19532-using-coravel-as-a-scheduler-in-aspnet-core
