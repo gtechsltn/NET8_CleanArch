@@ -12,8 +12,11 @@ https://www.techiehook.com/
 
 https://www.infoworld.com/
 
-https://www.infoworld.com/article/2259680/how-to-unit-test-static-methods-in-csharp.html
+## Scheduler with Coravel in .NET Standard
 
+https://sd.blackball.lv/en/articles/read/19532-using-coravel-as-a-scheduler-in-aspnet-core
+
+## Unit Testing with Log4Net and MSTest
 ```
 [AssemblyInitialize]
 public static void AssemblyInitialize(TestContext testContext)
@@ -21,6 +24,14 @@ public static void AssemblyInitialize(TestContext testContext)
     log4net.Config.XmlConfigurator.Configure();
 }
 ```
+
+## Unit Testing with Static Methods
+
+https://www.infoworld.com/article/2259680/how-to-unit-test-static-methods-in-csharp.html
+
+## Unit Testing with Dapper and xUnit
+
+https://sd.blackball.lv/articles/read/19096-how-to-write-unit-tests-with-dapper
 
 ## .NET 8.0 (.NET 8.0 API using the Clean Architecture)
 https://github.com/gtechsltn/NET8_CleanArch
