@@ -6,6 +6,10 @@ https://dev.to/techiesdiary/net-60-clean-architecture-using-repository-pattern-a
 
 https://github.com/sandeepkumar17/CleanArch
 
+https://www.tutorialsteacher.com/
+
+https://www.techiehook.com/
+
 ## .NET 8.0 (.NET 8.0 API using the Clean Architecture)
 https://github.com/gtechsltn/NET8_CleanArch
 
