@@ -16,6 +16,16 @@ https://www.infoworld.com/
 
 https://sd.blackball.lv/en/articles/read/19532-using-coravel-as-a-scheduler-in-aspnet-core
 
+## .NET Core Performance Tricks
+
+https://sd.blackball.lv/en/articles/read/19444-top-10-netcore-performance-tricks
+
+## Integration Testing Best Practices
+
+https://sd.blackball.lv/en/articles/read/19777-aspnet-core-integration-testing-best-practices
+
+https://sd.blackball.lv/en/articles/read/19548-api-testing-in-software-development
+
 ## Unit Testing with Log4Net and MSTest
 ```
 [AssemblyInitialize]
