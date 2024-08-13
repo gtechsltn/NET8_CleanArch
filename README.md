@@ -10,6 +10,18 @@ https://www.tutorialsteacher.com/
 
 https://www.techiehook.com/
 
+https://www.infoworld.com/
+
+https://www.infoworld.com/article/2259680/how-to-unit-test-static-methods-in-csharp.html
+
+```
+[AssemblyInitialize]
+public static void AssemblyInitialize(TestContext testContext)
+{
+    log4net.Config.XmlConfigurator.Configure();
+}
+```
+
 ## .NET 8.0 (.NET 8.0 API using the Clean Architecture)
 https://github.com/gtechsltn/NET8_CleanArch
 
